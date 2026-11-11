@@ -1,0 +1,6 @@
+@pract8_trpo_HostAddress = http://localhost:5029
+
+GET {{pract8_trpo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
